@@ -1,0 +1,2 @@
+# Python-freshman
+excercise python
